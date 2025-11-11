@@ -1,0 +1,128 @@
+/* Global styles for app-root (moved from src/app.js) */
+
+app-root {
+  display: block;
+  font-family: var(--app-font, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial);
+  color: #333;
+  background-color: #f9f7f7;
+  background-image: url('/src/assets/background.png');
+  background-repeat: no-repeat;
+  background-position: var(--bg-offset-x, -590px) var(--bg-offset-y, -80px);
+  background-size: 1200px auto;
+  background-attachment: fixed;
+  min-height: 100vh;
+  position: relative;
+}
+
+app-root::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('/src/assets/background.png');
+  background-repeat: no-repeat;
+  background-position: var(--bg-offset-x, -590px) var(--bg-offset-y, -80px);
+  background-size: 1200px auto;
+  background-attachment: fixed;
+  filter: invert(1) brightness(30%) invert(1);
+  pointer-events: none;
+  z-index: 0;
+}
+
+app-root .app {
+  position: relative;
+  z-index: 1;
+}
+
+app-root .app {
+  position: relative;
+  z-index: 1;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 16px;
+  min-height: 100vh;
+}
+
+app-root header {
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+app-root .logo-wrap {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  gap: 12px;
+}
+
+app-root .logo {
+  font-size: 2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #555
+}
+
+app-root .logo img {
+  width: 3rem;
+  height: 3rem;
+}
+
+app-root .search-wrap {
+  flex: 1;
+}
+
+/* Lead tagline next to logo: stack two lines vertically */
+app-root .logo-wrap .lead {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.05;
+  font-size: 0.9rem;
+  color: #777;
+  margin-left: 6px;
+  align-items: flex-start;
+}
+
+app-root .content {
+  display: grid;
+  grid-template-columns: 25% 1fr;
+  gap: 24px;
+  align-items: start;
+}
+
+app-root main {
+  padding: 0 2rem;
+  min-height: 240px;
+}
+
+@media (max-width: 768px) {
+  app-root header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  app-root .logo-wrap {
+    justify-content: center;
+    margin-bottom: 16px;
+  }
+  app-root .content {
+    grid-template-columns: 1fr;
+  }
+  /* Reduce background offset on small screens */
+  app-root {
+    background-position: var(--bg-offset-x, -60px) var(--bg-offset-y, -30px);
+    background-size: 900px auto;
+  }
+}
+
+header {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 1rem;
+  border-radius: 50px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}

@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "birthdate": "19 BBY",
+    "description": "Jedi Knight and hero of the Rebellion. Son of Anakin Skywalker, he played a central role in the fall of the Empire and the redemption of Darth Vader",
+    "gender": "male",
+    "homeworldName": "Tatooine",
+    "speciesName": "Human",
+    "films": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "role": "Jedi Master",
+    "side": "light",
+    "featured": false,
+    "legends": false,
+    "lead": "Luke Skywalker is the hero of the original Star Wars trilogy — a farm boy from Tatooine who rises from humble beginnings to become one of the greatest Jedi in galactic history. His journey from dreamer to savior represents the quintessential hero’s path, driven by courage, compassion, and a longing for purpose. Luke’s story embodies hope, redemption, and the struggle between light and darkness within oneself.\n\nUnder the guidance of Obi-Wan Kenobi and later Yoda, Luke learns the ways of the Force, ultimately confronting both the Emperor and his father, Darth Vader. His decision to reject hate and embrace forgiveness defines him not only as a warrior but as a symbol of true Jedi wisdom.",
+    "traits": [
+      "Idealistic and compassionate",
+      "Strong moral integrity",
+      "Deeply connected to the Force",
+      "Courageous and self-sacrificing"
+    ],
+    "moments": [
+      "Discovers the message from Princess Leia hidden in R2-D2, beginning his adventure.",
+      "Trains under Obi-Wan Kenobi and later Yoda to become a Jedi Knight.",
+      "Confronts Darth Vader and learns that Vader is his father.",
+      "Redeems his father by refusing to kill him and rejecting the Emperor’s temptations."
+    ],
+    "relationships": [
+      "Leia Organa – his twin sister and ally in the Rebellion.",
+      "Darth Vader (Anakin Skywalker) – his father, whom he ultimately redeems.",
+      "Obi-Wan Kenobi – his first mentor in the ways of the Force.",
+      "Yoda – his master, who completes his Jedi training."
+    ],
+    "details": "Luke’s evolution mirrors the classic mythological hero’s journey. Initially a restless youth, he becomes a disciplined Jedi whose choices reshape the fate of the galaxy. His compassion and ability to forgive — especially toward his father — highlight his moral depth and emotional maturity.\n\nIn the sequel trilogy, Luke’s story takes a more complex turn. Haunted by failure and self-doubt, he retreats into exile on Ahch-To. Yet even in isolation, his legend inspires new generations to rise against tyranny. His final act, projecting himself across the galaxy to save the Resistance, cements his legacy as the embodiment of hope.\n\nLuke’s legacy continues beyond his physical life — as a teacher, myth, and symbol of the enduring light side of the Force. His presence reminds all that even in despair, redemption and renewal are possible."
+  },
+  {
+    "id": 2,
+    "name": "Lando Calrissian",
+    "birthdate": "31 BBY",
+    "description": "Charming and suave smuggler turned Rebel ally, known for his quick thinking and piloting skills.",
+    "gender": "male",
+    "homeworldName": "Socorro",
+    "speciesName": "Human",
+    "films": [
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "Solo",
+      "The Rise of Skywalker"
+    ],
+    "role": "Smuggler",
+    "side": "light",
+    "featured": true,
+    "legends": false,
+    "lead": "Lando Calrissian is the galaxy’s most charming gambler, smuggler, and entrepreneur — a man whose charisma is as legendary as his luck. Known for his smooth talk and stylish demeanor, Lando walks the line between rogue and hero, always managing to come out ahead no matter the odds. Yet beneath his suave exterior lies a loyal friend and capable leader.\n\nFirst appearing as the administrator of Cloud City, Lando initially betrays his friends to protect his people, but later redeems himself by joining the Rebel Alliance and proving his bravery in battle.",
+    "traits": [
+      "Charismatic and smooth-talking",
+      "Resourceful and opportunistic",
+      "Loyal once trust is earned",
+      "Fearless pilot and strategist"
+    ],
+    "moments": [
+      "Betrays Han Solo to Darth Vader on Cloud City, setting up Han’s capture.",
+      "Redeems himself by helping Leia and Chewbacca rescue Han.",
+      "Leads the Rebel fleet at the Battle of Endor, destroying the second Death Star.",
+      "Returns in the sequel era to aid the Resistance against the Final Order."
+    ],
+    "relationships": [
+      "Han Solo – his old friend and rival, bound by shared history and mutual respect.",
+      "Leia Organa – comrade in the Rebellion, whom he deeply admires.",
+      "Chewbacca – loyal ally and frequent co-pilot on daring missions.",
+      "Nien Nunb – his co-pilot during the Battle of Endor."
+    ],
+    "details": "Lando’s journey is one of redemption and leadership. Once a self-serving gambler, he evolves into a hero who fights for freedom and justice. His decision to join the Rebellion marks a major shift in his character — from surviving for himself to standing for a cause greater than profit.\n\nBeyond his role in the original trilogy, Lando’s legacy is further explored in 'Solo: A Star Wars Story', where his early years as a smuggler and his deep bond with the Millennium Falcon are revealed. His friendship with L3-37, a droid with a strong sense of independence, adds emotional depth to his character.\n\nIn later years, Lando becomes a legend — still charming, still clever, and always ready for one last adventure. His enduring appeal lies in his mix of flair, heart, and the ability to rise above his mistakes."
+  },
+  {
+    "id": 3,
+    "name": "Leia Organa",
+    "birthdate": "19 BBY",
+    "description": "Sister of Luke Skywalker and a leader in the Rebel Alliance. Known for her bravery, intelligence, and dedication to the cause of freedom.",
+    "fullDescription": "Princess de Alderaan\n150cm de altura, 49kg\nHuman, nacido en 19BBY\nojos brown, pelo brown",
+    "gender": "female",
+    "homeworldName": "Alderaan",
+    "speciesName": "Human",
+    "films": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "role": "Princess",
+    "side": "light",
+    "featured": true,
+    "legends": false,
+    "lead": "Princess Leia Organa is one of the central figures in the Star Wars saga, known for her intelligence, leadership, and unwavering courage. As a member of the Rebel Alliance, she plays a crucial role in the fight against the oppressive Galactic Empire, proving that heroes come in many forms beyond the battlefield. Her sharp wit and determination make her a symbol of resistance and hope throughout the galaxy.\n\nBorn to Padmé Amidala and Anakin Skywalker, and adopted by Senator Bail Organa and Queen Breha of Alderaan, Leia grows up as royalty but never shies away from danger. Whether facing Darth Vader, leading troops into battle, or negotiating peace, Leia embodies strength tempered with compassion and a fierce dedication to justice.",
+    "traits": [
+        "Brave and resourceful leader",
+        "Politically astute and diplomatic",
+        "Strong moral compass and sense of duty",
+        "Quick-witted and emotionally resilient"
+    ],
+    "moments": [
+        "Captured by Darth Vader while carrying the Death Star plans, leading to the events of 'A New Hope'.",
+        "Rescued by Luke Skywalker and Han Solo from the Death Star and helps plan the Rebel victory at Yavin.",
+        "Strangles Jabba the Hutt with her own chains, symbolizing her defiance and strength.",
+        "Reveals her Force sensitivity and familial connection to Luke Skywalker and Darth Vader."
+    ],
+    "relationships": [
+        "Luke Skywalker – her twin brother and fellow hero of the Rebellion.",
+        "Han Solo – her romantic partner and eventual husband, with whom she shares a fiery yet deep bond.",
+        "Darth Vader (Anakin Skywalker) – her biological father, whose redemption she believes in despite his dark past.",
+        "Bail Organa – her adoptive father and moral influence, who instilled in her the values of compassion and duty."
+    ],
+    "details": "Leia Organa’s journey is one of growth from a young princess and political leader into a seasoned general of the Resistance. Her character arc bridges the old and new generations of Star Wars heroes, reflecting the enduring fight for freedom and equality. Despite being trained in diplomacy, she proves herself time and again as a capable soldier and strategist.\n\nLeia’s Force sensitivity, though not as developed as her brother Luke’s, adds a spiritual depth to her character. Her connection to the Force manifests in intuition, emotional strength, and later in life, limited training that she passes on to others. This aspect of her character expands her beyond politics and war, tying her to the mythic heart of the saga.\n\nHer influence continues into the sequel trilogy, where she leads the Resistance against the First Order as General Organa. Despite immense personal loss, including the fall of her son Ben Solo to the dark side, Leia remains a steadfast symbol of resilience and hope. Carrie Fisher’s portrayal turned Leia into an icon of feminist strength and emotional depth, resonating with audiences across generations."
+  },
+  {
+    "id": 4,
+    "name": "Han Solo",
+    "birthdate": "32 BBY",
+    "description": "Spacefaring smuggler turned Rebel hero, known for his piloting skills and quick wit.",
+    "fullDescription": "Smuggler de Corellia\n180cm de altura, 80kg\nHuman\nojos brown, pelo brown",
+    "gender": "male",
+    "homeworldName": "Corellia",
+    "speciesName": "Human",
+    "films": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens",
+      "Solo"
+    ],
+    "role": "Smuggler",
+    "side": "light",
+    "featured": false,
+    "legends": false,
+    "lead": "Han Solo is the quintessential rogue — a smuggler, pilot, and reluctant hero who finds himself at the heart of galactic events. Cynical yet loyal, selfish yet selfless when it matters, Han embodies the archetype of the charming scoundrel who discovers his own capacity for courage and love.\n\nFrom the cockpit of the Millennium Falcon, Han navigates both hyperspace and his own moral awakening, transforming from a self-interested outlaw into a leader of the Rebellion and a symbol of bravery.",
+    "traits": [
+      "Charismatic and quick-witted",
+      "Fearless and independent",
+      "Deeply loyal to friends",
+      "Cynical exterior hiding a noble heart"
+    ],
+    "moments": [
+      "Rescues Luke Skywalker during the Death Star trench run.",
+      "Confesses his love to Leia before being frozen in carbonite.",
+      "Leads the strike team on Endor to destroy the shield generator.",
+      "Confronts his son, Ben Solo, in an attempt to bring him back to the light."
+    ],
+    "relationships": [
+      "Leia Organa – his great love and eventual wife.",
+      "Chewbacca – his co-pilot, partner, and lifelong friend.",
+      "Luke Skywalker – friend and fellow hero of the Rebellion.",
+      "Ben Solo – his son, whose fall to the dark side haunts him."
+    ],
+    "details": "Han Solo’s journey reflects the transformation of a cynical smuggler into a man of principle. His story captures the essence of rebellion — not just against empires, but against apathy and fear. His swagger and humor conceal deep insecurities and an unspoken sense of duty.\n\nAs a character, Han bridges the worlds of outlaw and hero. His quick thinking and bravado make him indispensable to the Rebellion, while his emotional growth gives his character profound humanity. His relationship with Leia is central to his arc, evolving from flirtatious banter to enduring love.\n\nEven in his later years, Han remains true to himself — flawed, brave, and driven by loyalty. His death at the hands of his son, Ben Solo, is both tragic and redemptive, marking his final act of love and hope."
+  },
+  {
+    "id": 5,
+    "name": "Anakin Skywalker",
+    "birthdate": "41 BBY",
+    "description": "Once a heroic Jedi Knight, Anakin was seduced by the dark side and became Darth Vader, one of the most feared Sith Lords in history.",
+    "fullDescription": "Smuggler de Corellia\n180cm de altura, 80kg\nHuman\nojos brown, pelo brown",
+    "gender": "male",
+    "homeworldName": "Tatooine",
+    "speciesName": "Human",
+    "films": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith",
+      "Return of the Jedi"
+    ],
+    "role": "Jedi Knight",
+    "side": "dark",
+    "featured": false,
+    "legends": false,
+    "lead": "Anakin Skywalker is one of the most complex figures in Star Wars — a prodigy of the Force whose destiny leads him from hero to villain. Discovered as a slave boy with extraordinary potential, he rises to become a Jedi Knight, only to fall to darkness as Darth Vader. His story is one of tragedy, love, fear, and ultimately, redemption.\n\nAnakin’s fall to the dark side is fueled by his desire to protect those he loves and his inability to accept loss, making him one of the saga’s most human and tragic characters.",
+    "traits": [
+      "Powerful and impulsive",
+      "Passionate and loyal",
+      "Haunted by fear of loss",
+      "A natural leader and warrior"
+    ],
+    "moments": [
+      "Wins his freedom after racing in the Boonta Eve Podrace.",
+      "Becomes a Jedi Knight and secretly marries Padmé Amidala.",
+      "Falls to the dark side and becomes Darth Vader.",
+      "Redeems himself by saving his son, destroying the Emperor, and restoring balance to the Force."
+    ],
+    "relationships": [
+      "Padmé Amidala – his wife and the love that drives both his heroism and downfall.",
+      "Obi-Wan Kenobi – his mentor, brother figure, and eventual adversary.",
+      "Ahsoka Tano – his Padawan, who represents his better nature.",
+      "Luke Skywalker – his son, who brings him back to the light."
+    ],
+    "details": "Anakin’s journey is the emotional core of the Star Wars saga. His immense potential and inner conflict represent the duality of light and dark inherent in all beings. His transformation into Darth Vader is not sudden but the culmination of fear, manipulation, and love twisted by obsession.\n\nDespite his fall, Anakin’s redemption underscores the series’ central theme — that it is never too late to return to the light. His final act of sacrifice to save Luke closes the circle of prophecy and restores balance to the Force.\n\nAs a character, Anakin embodies both mythic tragedy and deeply human emotion. His story serves as a cautionary tale about power, fear, and the importance of compassion."
+  },
+  {
+    "id": 6,
+    "name": "Shmi Skywalker",
+    "birthdate": "72 BBY",
+    "description": "Mother of Anakin Skywalker, she raised him on Tatooine before he was discovered by the Jedi.",
+    "fullDescription": "Smuggler de Corellia\n180cm de altura, 80kg\nHuman\nojos brown, pelo brown",
+    "gender": "female",
+    "homeworldName": "Tatooine",
+    "speciesName": "Human",
+    "films": [
+      "The Phantom Menace",
+      "Attack of the Clones"
+    ],
+    "role": "Mother",
+    "side": "light",
+    "featured": false,
+    "legends": false,
+    "lead": "Shmi Skywalker is the quiet, steadfast mother of Anakin Skywalker — a woman whose strength lies in her humility and unconditional love. Living as a slave on Tatooine, she endures hardship with grace, raising her son to be kind, selfless, and brave. Though her role is small, her influence shapes the destiny of the galaxy.\n\nHer faith in Anakin’s goodness and the mysterious nature of his birth make her one of the saga’s most spiritually resonant figures.",
+    "traits": [
+      "Compassionate and selfless",
+      "Resilient in the face of hardship",
+      "Deeply spiritual and wise",
+      "Loving and nurturing mother"
+    ],
+    "moments": [
+      "Gives birth to Anakin without a known father, hinting at a divine origin.",
+      "Encourages Anakin to follow his destiny and leave Tatooine with Qui-Gon Jinn.",
+      "Captured and tortured by Tusken Raiders, leading to her tragic death.",
+      "Her death triggers Anakin’s first steps toward the dark side."
+    ],
+    "relationships": [
+      "Anakin Skywalker – her beloved son and the center of her life.",
+      "Qui-Gon Jinn – the Jedi who frees her son and recognizes his potential.",
+      "Cliegg Lars – the man who buys her freedom and marries her.",
+      "Owen Lars – her stepson, who later helps raise Luke Skywalker."
+    ],
+    "details": "Shmi represents the unsung heroism of everyday people in the Star Wars universe. Her strength is not physical or political but emotional — a deep resilience born of love and faith. Through her, the saga touches on themes of sacrifice and the enduring bond between parent and child.\n\nHer miraculous conception of Anakin remains one of the greatest mysteries in the mythos, possibly linked to the will of the Force itself. This divine element gives Shmi a quiet significance that echoes far beyond her brief screen time.\n\nHer death marks a turning point for Anakin, planting the seeds of his fear and anger. Yet her teachings continue to influence him — and, through him, the destiny of the galaxy."
+  },
+  {
+    "id": 7,
+    "name": "Ben Skywalker",
+    "birthdate": "26 BBY",
+    "description": "Son of Luke Skywalker in the Expanded Universe. A powerful Jedi Knight who carreid forward the Skywalker legacy.",
+    "fullDescription": "Smuggler de Corellia\n180cm de altura, 80kg\nHuman\nojos brown, pelo brown",
+    "gender": "male",
+    "homeworldName": "Coruscant",
+    "speciesName": "Human",
+    "films": ["None"],
+    "role": "Jedi Knight",
+    "side": "light",
+    "featured": false,
+    "legends": true,
+    "lead": "Ben Skywalker is the son of Luke Skywalker and Mara Jade, carrying both the legacy of the Jedi and the shadow of the Skywalker bloodline. Born during turbulent times, Ben struggles with the expectations placed upon him as the heir to one of the galaxy’s most powerful Force lineages. His path is defined by learning, loss, and the pursuit of balance within himself.\n\nUnlike his namesake, Ben Kenobi, this Ben’s story explores the challenge of growing up in the aftermath of galactic conflict.",
+    "traits": [
+      "Curious and introspective",
+      "Strong connection to the Force",
+      "Loyal to family and friends",
+      "Haunted by the Skywalker legacy"
+    ],
+    "moments": [
+      "Trains under his father Luke as a Jedi during the rebuilding of the Order.",
+      "Forms a close bond with Jacen Solo, who later falls to the dark side.",
+      "Survives the destruction of the Jedi Academy during the Second Galactic Civil War.",
+      "Becomes a key figure in the post-war efforts to restore peace and rebuild the Jedi."
+    ],
+    "relationships": [
+      "Luke Skywalker – his father and Jedi Master.",
+      "Mara Jade – his mother, whose death deeply impacts him.",
+      "Jacen Solo – his cousin and mentor, later Darth Caedus.",
+      "Allana Solo – his young cousin, whom he protects."
+    ],
+    "details": "Ben Skywalker represents a new generation of Jedi grappling with the past. He is not driven by ambition or prophecy, but by the quiet determination to understand and heal. His internal struggles mirror those of his ancestors, yet he strives to break the cycle of fear and anger.\n\nIn the Legends continuity, Ben’s character development centers on moral nuance — questioning authority, compassion, and what it means to be a Jedi in a flawed galaxy. His close relationship with his father adds emotional depth and continuity to the Skywalker saga.\n\nBen’s calm, reflective nature sets him apart from the impulsive tendencies of his forebears, marking him as a bridge between the old and new Jedi orders."
+  },
+  {
+    "id": 8,
+    "name": "Cade Skywalker",
+    "birthdate": "116 BBY",
+    "description": "Descendant of Luke Skywalker, known from the Star Wars: Legacy comics. Struggled with both light and dark sides of the Force.",
+    "fullDescription": "Smuggler de Corellia\n180cm de altura, 80kg\nHuman\nojos brown, pelo brown",
+    "gender": "male",
+    "homeworldName": "Ossus",
+    "speciesName": "Human",
+    "films": ["None"],
+    "role": "Bounty Hunter",
+    "side": "light",
+    "featured": false,
+    "legends": true,
+    "lead": "Cade Skywalker, a descendant of Luke Skywalker, lives in a darker era of the galaxy — one where the Jedi have fallen and the Sith have risen again. A bounty hunter and reluctant Force user, Cade walks a path between light and dark, refusing to accept his lineage even as it defines him.\n\nHaunted by the past and tempted by power, Cade’s story is one of rebellion — not against empires, but against destiny itself.",
+    "traits": [
+      "Defiant and self-destructive",
+      "Powerful but conflicted",
+      "Cynical yet compassionate deep down",
+      "Haunted by family legacy"
+    ],
+    "moments": [
+      "Survives the destruction of the Jedi Temple as a child.",
+      "Becomes a bounty hunter who suppresses his connection to the Force.",
+      "Confronts Darth Krayt and rejects both Jedi and Sith ideology.",
+      "Uses his unique Force healing power to save others at great personal cost."
+    ],
+    "relationships": [
+      "Kol Skywalker – his father, whose death shapes Cade’s trauma.",
+      "Darth Krayt – his nemesis and dark reflection.",
+      "Deliah Blue – his loyal friend and romantic interest.",
+      "Jariah Syn – his companion and moral anchor."
+    ],
+    "details": "Cade Skywalker’s story, set over a century after Luke’s time, reimagines the Skywalker legacy in a grittier, more conflicted galaxy. Unlike his ancestors, Cade actively rejects the ideals of both Jedi and Sith, seeking freedom from the burdens of destiny.\n\nHis moral ambiguity makes him one of the most complex figures in Star Wars Legends. He struggles with addiction, guilt, and identity, symbolizing the challenge of inheriting power without faith.\n\nCade’s journey is ultimately one of reconciliation — not with destiny, but with himself. His decision to embrace his power for healing rather than destruction reaffirms the enduring hope at the heart of the Skywalker name."
+  },
+  {
+    "id": 9,
+    "name": "Darth Vader",
+    "birthdate": "41 BBY",
+    "description": "Once a heroic Jedi Knight, Anakin was seduced by the dark side and became Darth Vader, one of the most feared Sith Lords in history.",
+    "fullDescription": "Smuggler de Corellia\n180cm de altura, 80kg\nHuman\nojos brown, pelo brown",
+    "gender": "male",
+    "homeworldName": "Tatooine",
+    "speciesName": "Human",
+    "films": [
+      "Revenge of the Sith",
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "Rogue One"
+    ],
+    "role": "Sith Lord",
+    "side": "dark",
+    "featured": true,
+    "legends": false,
+    "lead": "Darth Vader is one of the most iconic villains in cinematic history — a dark enforcer of the Galactic Empire and the fallen form of Anakin Skywalker. Encased in black armor and driven by rage and pain, he commands fear across the galaxy. Yet beneath the mask lies tragedy: a man consumed by love, loss, and the consequences of his own choices.\n\nOnce the Chosen One destined to bring balance to the Force, Vader’s story is as much about redemption as it is about ruin.",
+    "traits": [
+      "Ruthless and commanding",
+      "Haunted and conflicted",
+      "Immensely powerful in the Force",
+      "Driven by loss and guilt"
+    ],
+    "moments": [
+      "Leads the purge of the Jedi after Order 66.",
+      "Confronts Obi-Wan Kenobi aboard the Death Star.",
+      "Reveals to Luke that he is his father.",
+      "Redeems himself by saving Luke and destroying the Emperor."
+    ],
+    "relationships": [
+      "Emperor Palpatine – his master and manipulator.",
+      "Luke Skywalker – his son and the source of his redemption.",
+      "Padmé Amidala – the lost love that fuels his despair.",
+      "Obi-Wan Kenobi – his former master and moral foil."
+    ],
+    "details": "Darth Vader’s transformation from hero to monster encapsulates the tragedy of the human condition — the way fear and desire can corrupt even the purest intentions. His imposing presence and deep mechanical voice have made him a cultural icon of evil and power.\n\nYet Vader’s story is also one of salvation. Through his son Luke, he reconnects with the compassion he once buried. His final act — turning against the Emperor — restores balance to the Force and brings closure to his long fall.\n\nVader’s duality continues to resonate across generations. He represents both the danger of unchecked power and the possibility of redemption. The man behind the mask — Anakin Skywalker — reminds us that even the darkest soul can find light again."
+  }
+]
